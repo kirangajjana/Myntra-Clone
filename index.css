@@ -145,3 +145,8 @@ header {
     color:#282c3f;
     font-weight: bolder;
 }
+.logo_container:hover{
+    transform: rotate(90deg);
+    transition: transform 4s ease-in-out 2s;
+
+}
