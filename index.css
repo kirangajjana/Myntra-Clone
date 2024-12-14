@@ -150,3 +150,21 @@ header {
     transition: transform 4s ease-in-out 2s;
 
 }
+.action_name:hover{
+    transform: rotate(90deg);
+    transition: transform 4s ease-in-out 1s;
+
+}
+.category_heading:hover{
+    color:red;
+    font-weight: bolder;
+
+}
+.footer_container:hover{
+    color:rgb(215, 12, 12);
+    font-weight: bolder;
+}
+.sale_item:hover{
+    transform: rotate(30deg);
+    transition: transform 4s ease-in-out ;
+}
