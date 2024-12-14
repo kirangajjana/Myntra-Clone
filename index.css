@@ -141,3 +141,7 @@ header {
     text-align: end;
     padding: 15px;
 }
+#marquee{
+    color:#282c3f;
+    font-weight: bolder;
+}
